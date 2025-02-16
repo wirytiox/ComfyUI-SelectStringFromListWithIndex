@@ -1,0 +1,14 @@
+[project]
+name = "selectstringfromlistwithindex"
+description = "This node is a node made by GMapeSplat/ComfyUI_ezXY that i copied while his node doesn't work"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/wirytiox/ComfyUI-SelectStringFromListWithIndex"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-SelectStringFromListWithIndex"
+Icon = ""
