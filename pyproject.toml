@@ -9,6 +9,6 @@ Repository = "https://github.com/wirytiox/ComfyUI-SelectStringFromListWithIndex"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = "@wirytiox"
+PublisherId = "wirytiox"
 DisplayName = "ComfyUI-SelectStringFromListWithIndex"
 Icon = ""
