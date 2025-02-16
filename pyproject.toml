@@ -1,5 +1,5 @@
 [project]
-name = "selectstringfromlistwithindex"
+name = "ComfyUI-SelectStringFromListWithIndex"
 description = "This node is a node made by GMapeSplat/ComfyUI_ezXY that i copied while his node doesn't work"
 version = "1.0.0"
 license = {file = "LICENSE"}
